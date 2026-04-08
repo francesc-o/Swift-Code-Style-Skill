@@ -1,0 +1,4 @@
+interface:
+  display_name: "Swift Code Style"
+  short_description: "Apply house style to Swift code"
+  default_prompt: "Use $swift-code-style to review and normalize the touched Swift files."
