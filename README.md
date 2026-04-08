@@ -16,7 +16,6 @@ npx skills add https://github.com/francesc-o/Swift-Code-Style-Skill --skill swif
 
 1. **Clone** this repository
 2. **Install or symlink** the `swift-code-style/` folder following your tool's skills installation docs
-3. **Use your AI tool** and ask it to use the "ios-accessibility" skill for accessibility tasks
 
 ## License
 
